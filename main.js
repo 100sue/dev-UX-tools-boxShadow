@@ -30,7 +30,7 @@ function hexToRgba(shadowColor, shadowColorOpacity) {
 function copyCode() {
     code.select();
     document.execCommand("copy");
-    alert("Code Copié !!");
+    alert("Code box-shadow copié !!");
 }
 
 
