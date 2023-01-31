@@ -11,6 +11,12 @@ body {
     background-color: #0075ff;
 }
 
+h1 {
+    text-align: center;
+    font-size: 2.2em;
+    color: #1f1f1f;
+}
+
 .container {
     background-color: #ffff;
     width: 80vmin;
@@ -24,6 +30,7 @@ body {
 }
 .result {
     padding: 150px 0;
+    background-color: #eff3f8
 }
 
 #element {
@@ -61,6 +68,7 @@ textarea {
     padding: 5px;
     border: 1px solid black;
     border-radius: 5px;
+    background-color: #f1eff9;
 }
 .code-wrapper button {
     background-color: #0075ff;
