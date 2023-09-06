@@ -42,8 +42,12 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 " Generateur de gradient ": https://100sue.github.io/dev-gradient/
   <br>
 " Generateur de Qr Code " : https://100sue.github.io/dev-QR-code-generator/
-    <br>
+<br>
 " Generateur de Couleurs " :  https://100sue.github.io/dev-couleurs/
+<br>
+" Generateur de  Box-shadow " : https://100sue.github.io/dev-UX-tools-boxShadow/
+<br>
+" Generateur de  Border-radius " : https://100sue.github.io/dev-UX-tools-Border-radius/
 </p>
 <br>
 <br>
@@ -51,7 +55,7 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <br>
 
 <p align="center">
-<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/d1559167-060f-4502-b7af-5ba58d402775"/>
+<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/d1559167-060f-4502-b7af-5ba58d402775" width="650" height="550/>
 </p>
 
 <h1 align="center">Web Developer - Full Stack</h1>
@@ -76,7 +80,7 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <br>
 <br>
 <p align="center">
-<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/926e54fe-be59-4c9d-9afb-c8bff890578b"/>
+<img src= "https://github.com/100sue/dev-couleurs/assets/90606431/926e54fe-be59-4c9d-9afb-c8bff890578b" width="550" height="750"/>
 </p>
 
 
