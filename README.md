@@ -18,7 +18,7 @@
 
 <br>
 
-Créer votre propre génerateur de couleurs qui vont bien ensemble, pour tous les devs qui aiment fabriquer leur propres outils.
+Créer votre propre génerateur de box-shadow, pour tous les devs qui aiment fabriquer leur propres outils.
 <br>
 N'hesitez pas à enrichir le code par vos propres ajouts, et faites-moi un petit retour pour me montrer vos ajouts.
 
